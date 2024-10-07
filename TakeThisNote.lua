@@ -1,7 +1,7 @@
 local M = {}
 
 function M.say_hello()
-	print("Hello, World!")
+	print("Hello World!!")
 end
 
 return M
